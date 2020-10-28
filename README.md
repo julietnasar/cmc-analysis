@@ -8,7 +8,7 @@ Using different models we will predict whether a person will use: no contracepti
 
 ## Attribute Information
 
-attribute |	type | details | Attribute name in dataSet
+attribute |	type | details | attribute name in dataSet
 ----------|------|---------|--------------------------
 Wife's age | numerical|----| Wife_age
 Wife's education | categorical | 1=low, 2, 3, 4=high | Wife_ed
